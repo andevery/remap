@@ -1,0 +1,8 @@
+[package]
+name = "rsmap"
+version = "0.1.0"
+authors = ["andevery <guthub.com/andevery>"]
+
+[dependencies]
+pnet = "0.14.0"
+rand = "0.3.14"
